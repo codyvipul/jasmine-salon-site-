@@ -1,2 +1,3 @@
-# jasmine-salon-site-
-desgin in html/css with adding some js
+# jasmine-salon-site
+
+html css design
